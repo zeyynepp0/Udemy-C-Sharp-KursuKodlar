@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\bin\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\bin\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\bin\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\obj\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\obj\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\obj\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function )\obj\Debug\ConsoleApp  Udemy 17  Metot içinde metot tanımlama ( Local function ).pdb

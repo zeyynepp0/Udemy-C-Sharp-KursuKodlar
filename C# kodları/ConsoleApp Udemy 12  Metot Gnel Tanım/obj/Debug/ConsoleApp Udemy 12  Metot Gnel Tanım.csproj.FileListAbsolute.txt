@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\bin\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\bin\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\bin\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\obj\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\obj\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\obj\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 12  Metot Gnel Tanım\obj\Debug\ConsoleApp Udemy 12  Metot Gnel Tanım.pdb

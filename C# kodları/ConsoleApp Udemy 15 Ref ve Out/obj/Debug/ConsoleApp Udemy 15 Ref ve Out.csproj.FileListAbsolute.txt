@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\bin\Debug\ConsoleApp Udemy 15 Ref ve Out.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\bin\Debug\ConsoleApp Udemy 15 Ref ve Out.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\bin\Debug\ConsoleApp Udemy 15 Ref ve Out.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\obj\Debug\ConsoleApp Udemy 15 Ref ve Out.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\obj\Debug\ConsoleApp Udemy 15 Ref ve Out.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\obj\Debug\ConsoleApp Udemy 15 Ref ve Out.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 15 Ref ve Out\obj\Debug\ConsoleApp Udemy 15 Ref ve Out.pdb

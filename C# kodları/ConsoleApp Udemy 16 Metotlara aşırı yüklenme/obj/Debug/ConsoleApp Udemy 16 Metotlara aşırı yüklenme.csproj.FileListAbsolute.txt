@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\bin\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\bin\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\bin\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\obj\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\obj\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\obj\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 16 Metotlara aşırı yüklenme\obj\Debug\ConsoleApp Udemy 16 Metotlara aşırı yüklenme.pdb

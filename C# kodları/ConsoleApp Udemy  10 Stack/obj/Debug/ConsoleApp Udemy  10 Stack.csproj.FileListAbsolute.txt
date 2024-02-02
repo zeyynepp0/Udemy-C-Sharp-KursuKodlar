@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\bin\Debug\ConsoleApp Udemy  10 Stack.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\bin\Debug\ConsoleApp Udemy  10 Stack.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\bin\Debug\ConsoleApp Udemy  10 Stack.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\obj\Debug\ConsoleApp Udemy  10 Stack.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\obj\Debug\ConsoleApp Udemy  10 Stack.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\obj\Debug\ConsoleApp Udemy  10 Stack.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy  10 Stack\obj\Debug\ConsoleApp Udemy  10 Stack.pdb

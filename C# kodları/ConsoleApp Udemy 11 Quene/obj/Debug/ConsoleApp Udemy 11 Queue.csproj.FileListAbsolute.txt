@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\bin\Debug\ConsoleApp Udemy 11 Quene.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\bin\Debug\ConsoleApp Udemy 11 Quene.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\bin\Debug\ConsoleApp Udemy 11 Quene.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\obj\Debug\ConsoleApp Udemy 11 Queue.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\obj\Debug\ConsoleApp Udemy 11 Queue.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\obj\Debug\ConsoleApp Udemy 11 Quene.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 11 Quene\obj\Debug\ConsoleApp Udemy 11 Quene.pdb

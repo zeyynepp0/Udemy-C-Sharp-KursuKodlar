@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\bin\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\bin\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\bin\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\obj\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\obj\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\obj\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 13 Matematiksel İşlemler\obj\Debug\ConsoleApp Udemy 13 Matematiksel İşlemler.pdb

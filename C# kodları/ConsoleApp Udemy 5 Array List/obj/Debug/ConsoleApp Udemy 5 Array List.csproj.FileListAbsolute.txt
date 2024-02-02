@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\obj\Debug\ConsoleApp Udemy 5 Array List.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\obj\Debug\ConsoleApp Udemy 5 Array List.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\bin\Debug\ConsoleApp Udemy 5 Array List.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\bin\Debug\ConsoleApp Udemy 5 Array List.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\bin\Debug\ConsoleApp Udemy 5 Array List.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\obj\Debug\ConsoleApp Udemy 5 Array List.exe
+C:\Users\zeyne\OneDrive\Masaüstü\ZeynepC\C# kodları\ConsoleApp Udemy 5 Array List\obj\Debug\ConsoleApp Udemy 5 Array List.pdb
